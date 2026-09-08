@@ -9,17 +9,17 @@
 </p>
 
 <p align="center">
-  Welcome to my GitHub profile 🚀
+  Welcome to my GitHub profile 
 </p>
 
 ---
 
 ## 👀 About Me
 
-- 🎓 I'm a student
-- 📱 Learning Android Development
-- 🎨 Designing interfaces with Figma
-- 💻 Interested in programming and technology
+-  I'm a student
+-  Learning Android Development
+-  Designing interfaces with Figma
+-  Interested in programming and technology
 
 ---
 
