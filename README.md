@@ -2,7 +2,7 @@
 <h3 align="center">Student • Developer • Designer</h3>
 
 <p align="center">
-  <img src="YOUR_IMAGE_URL" width="220"/>
+  <img src="fd (1).png" width="220"/>
 </p>
 
 <p align="center">
