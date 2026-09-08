@@ -33,7 +33,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="df-modified.png" width="230" height="230" alt="Profile Photo">
+  <img src="stats-modified.png" width="150" height="150" alt="Profile Photo">
 </p>
 
 <p align="center">
