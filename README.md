@@ -32,10 +32,14 @@
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="df-modified.png" width="230" height="230" alt="Profile Photo">
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pulindu-Sashmitha&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pulindu-Sashmitha&theme=tokyonight" />
 </p>
+
 
 ---
 
