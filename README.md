@@ -1,24 +1,23 @@
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
-<h3 align="center">Student • Developer • Tech Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Pulindu Sashmitha</h1>
+<h3 align="center">Student • Developer • Designer</h3>
 
 <p align="center">
   <img src="YOUR_IMAGE_URL" width="220"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Pulindu-Sashmitha">
     <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge">
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👀 About Me
 
 - 🎓 I'm a student
 - 💻 Currently learning Android Development
-- 🎵 Building a music application
-- 🚀 Interested in programming and technology
+- 🚀 Interested in programming and Designing
 - 📚 Always learning something new
 
 ---
@@ -46,7 +45,7 @@
 ## 🌐 Connect With Me
 
 <p>
-<a href="https://github.com/YOUR_USERNAME">GitHub</a>
+<a href="https://github.com/Pulindu-Sashmitha">GitHub</a>
 </p>
 
 ---
