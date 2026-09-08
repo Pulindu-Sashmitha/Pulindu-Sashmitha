@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="df.jpg" width="230" height="230" alt="Profile Photo">
+  <img src="df.svg" width="230" height="230" alt="Profile Photo">
 </p>
 
 <p align="center">
