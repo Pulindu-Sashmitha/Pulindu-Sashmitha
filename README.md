@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="profile.png" width="230" height="230" alt="Profile Photo">
+  <img src="df.jpg" width="230" height="230" alt="Profile Photo">
 </p>
 
 <p align="center">
@@ -14,14 +14,12 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👀 About Me
 
 - 🎓 I'm a student
 - 📱 Learning Android Development
-- 🎵 Currently building a Music App
 - 🎨 Designing interfaces with Figma
 - 💻 Interested in programming and technology
-- 🚀 Always learning something new
 
 ---
 
@@ -36,7 +34,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pulindu-Sashmitha&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
